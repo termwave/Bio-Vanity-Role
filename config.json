@@ -1,0 +1,10 @@
+{
+    "role-access-category": 1263766797774225418,
+    "role-id": 1289254440112623798,
+    "bot-token": "your bot token here",
+    "user-token": "user token here he should be in the server",
+    "fixed-channel-id": 1289254360844603505,
+    "role-webhook": "webhook where u want logs",
+    "vanity": ".gg/ntop",
+    "message-id": null
+}
